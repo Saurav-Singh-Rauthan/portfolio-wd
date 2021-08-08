@@ -226,7 +226,7 @@ body {
         width: 40px;
     }
     .bot-navbar {
-        height: 15%;
+        height: calc(15vh - calc(15vh - 15%));
         display: grid;
         grid-template-columns: repeat(5, 20%);
         align-items: center;
@@ -256,7 +256,7 @@ body {
         width: 60px;
     }
     .bot-navbar {
-        height: 15%;
+        height: calc(15vh - calc(15vh - 15%));
         display: grid;
         grid-template-columns: repeat(5, 20%);
         align-items: center;
@@ -284,7 +284,7 @@ body {
         width: 70px;
     }
     .bot-navbar {
-        height: 15%;
+        height: calc(15vh - calc(15vh - 15%));
         display: grid;
         grid-template-columns: repeat(5, 20%);
         align-items: center;
