@@ -194,6 +194,7 @@ body {
     height: 80px;
     width: 80px;
     color: rgba(114, 113, 113, 0.9);
+    cursor: pointer;
 }
 
 #item-2 {
