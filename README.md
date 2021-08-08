@@ -9,4 +9,6 @@ A portfolio website made with html, css and javascript based on watch dogs 2 the
 - [ ] website completed
 
 # images 📷
-* 
+* ![Image 1](https://github.com/Saurav-Singh-Rauthan/portfolio-wd/blob/main/images/Annotation%202021-08-08%20181032.jpg)  
+* ![Image 2](https://github.com/Saurav-Singh-Rauthan/portfolio-wd/blob/main/images/Annotation%202021-08-08%20181101.jpg)  
+* ![Image 3](https://github.com/Saurav-Singh-Rauthan/portfolio-wd/blob/main/images/Annotation%202021-08-08%20193229.jpg)  
