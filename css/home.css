@@ -3,6 +3,7 @@
     padding: 2rem 6rem;
     -webkit-text-stroke: 1px black;
     background: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif'), rgba(131, 122, 122, 0.541);
+    background-position: center;
     color: #DFDFDF;
     background-repeat: no-repeat;
     background-size: cover;
