@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
-
 * {
     box-sizing: border-box;
 }
@@ -275,7 +274,8 @@ body {
     }
     .phone-div {
         display: none;
-    }.icons {
+    }
+    .icons {
         height: 50px;
         width: 50px;
     }
@@ -293,18 +293,18 @@ body {
 }
 
 @media (min-width: 1201px) and (max-width:1400px) {
-    .container{
+    .container {
         grid-template-columns: 55% 35%;
     }
-    .icons{
-        height:55px;
-        width:55px;
+    .icons {
+        height: 55px;
+        width: 55px;
     }
-    .icons:hover{
-        height:70px;
-        width:70px;
+    .icons:hover {
+        height: 70px;
+        width: 70px;
     }
-    .bot-navbar{
+    .bot-navbar {
         display: none;
     }
 }
